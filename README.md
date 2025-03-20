@@ -4,3 +4,5 @@ Grupo formado por: Samara Sofia Acosta Serna, Leidy Alejandra Babativa Ramirez, 
 2.Diagrama de flujo de calculo de matriz inversa de 3x3 por determinantes (PDF)
 3.Programa en excel de calculo de determinante paso a paso
 4.Programa en excel de calculo de matriz inversa paso a paso
+
+Nota// Para ver el excel hay que descargarlo donde dice ver raw. Gracias
